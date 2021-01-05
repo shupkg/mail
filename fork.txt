@@ -1,0 +1,6 @@
+fork time:
+	Wed, 06 Jan 2021 07:22:58 +0800
+fork from:
+	https://github.com/xhit/go-simple-mail.git
+fork version:
+    31bc89d-dirty Santiago De la Cruz <delacruzsantiago12@gmail.com>   Tue Dec 22 17:39:14 2020 -0400
